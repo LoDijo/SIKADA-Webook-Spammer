@@ -11,3 +11,4 @@ A simple webhook spammer maked in batch
 ### Custom-Message ✅
 ### Custom-Time of Messages ✅
 ### Custom-Pfp ❌ (Soon)
+### Delete Webhook ✅
