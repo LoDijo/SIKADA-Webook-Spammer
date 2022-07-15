@@ -3,6 +3,7 @@
    
 # A simple webhook spammer maked in batch
 
+</div>
 
 ## Something isn't working? Add me! 𝑺𝑰𝑲𝑨𝑫𝑨 (9skidW)#1258
 ## Dox Server - https://discord.gg/dfNbAchRMZ
