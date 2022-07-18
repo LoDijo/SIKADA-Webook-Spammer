@@ -6,7 +6,7 @@
 
 </div>
 
-## Something isn't working? Add me! 𝑺𝑰𝑲𝑨𝑫𝑨 (9skidW)#1258
+## Something isn't working? Add me! 970#0001
 ## Dox Server - https://discord.gg/dfNbAchRMZ
 ## Soap Server - https://discord.gg/pDgjfZuDXX
 
